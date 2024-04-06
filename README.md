@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é Gustavo Mello ~
 - 👀 Tenho bastante interesse nas áreas de Machine Learning, Data Science, Computer Vision e outras relacionadas.
 - 🌱 Atualmente, estou aprofundando meus estudos nos conteúdos de inteligência artificial.
-- 💞️ Estou em busca de um ambiente profissional para aplicar meus conhecimentos e me dedicar ao máximo.
+- 💞️ Atualmente trabalhando em projetos de inteligência artificial no SENAI.
 - 📫 Contato: mellogustavo.contato@gmail.com
 - No momento, estou desenvolvendo minha tese de conclusão de curso na área de aprendizado de máquina.
 
