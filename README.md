@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mello</h1>
 <h3 align="center">A Computer Engineer interested in Machine Learning and Cloud Computing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavomello-source" alt="gustavomello-source" /></a> </p>
-
 - 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **AWS, GCP and Azure**
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomello-source&show_icons=true&locale=en&layout=compact" alt="gustavomello-source" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavomello-source&show_icons=true&locale=en" alt="gustavomello-source" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomello-source&" alt="gustavomello-source" /></p>
