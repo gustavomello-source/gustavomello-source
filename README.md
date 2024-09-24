@@ -35,6 +35,8 @@
 
 <h4 align="left"> Dev Ops</h4>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomello-source&show_icons=true&locale=en&layout=compact" alt="gustavomello-source" /></p>
+<p>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomello-source&show_icons=true&locale=en&layout=compact&theme=dark" alt="gustavomello-source" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavomello-source&show_icons=true&locale=en" alt="gustavomello-source" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavomello-source&show_icons=true&locale=en&theme=dark" alt="gustavomello-source" /></p>
