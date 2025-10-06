@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mello</h1>
 <h3 align="center">A Computer Engineer working on Machine Learning & Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on **Computer Vision** and **Machine Learning** projects applied to industry applications. 
+- 🔭 I’m currently working on **Computer Vision** and **Machine Learning** projects applied to industry level projects. 
 
-- 🌱 I’m currently writing and developing my final undergraduate thesis on **vectorization techniques applied to text classification**.
+- 🌱 I’m currently writing and developing my final undergraduate thesis on **analysis of vectorization techniques applied to text classification**.
 
 - 📫 How to reach me **mellogustavo.contato@gmail.com**, and feel free to contact me, specially about academic researches. 
 
