@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Computer Vision** and **Machine Learning** projects applied to industry level projects. 
 
-- 🌱 I’m currently writing and developing my final undergraduate thesis on **analysis of vectorization techniques applied to text classification**.
+- 🌱 Recently graduated in Computer Engineering, currently seeking a master’s degree.
 
-- 📫 How to reach me **mellogustavo.contato@gmail.com**, and feel free to contact me, specially about academic researches. 
+- 📫 How to reach me **mellogustavo.contato@gmail.com**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
